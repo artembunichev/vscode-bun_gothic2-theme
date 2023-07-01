@@ -1,0 +1,34 @@
+{
+
+	"window.menuBarVisibility": "compact",
+
+	"editor.cursorBlinking": "solid",
+	"editor.minimap.enabled": false,
+	"editor.hideCursorInOverviewRuler": true,
+	"editor.showFoldingControls": "never",
+	"editor.matchBrackets": "never",
+	"editor.bracketPairColorization.enabled": false,
+	"editor.guides.bracketPairs": false,
+	"editor.guides.indentation": false,
+	"editor.inlayHints.enabled": "off",
+	"editor.parameterHints.enabled": false,
+	"editor.suggest.showIcons": false,
+	"editor.suggest.showInlineDetails": false,
+	"editor.glyphMargin": false,
+
+	"git.decorations.enabled": false,
+
+	"explorer.decorations.colors": false,
+	"explorer.compactFolders": false,
+
+	"search.decorations.colors": false,
+	"search.decorations.badges": false,
+
+	"breadcrumbs.enabled": false,
+
+	"workbench.iconTheme": null,
+	"workbench.editor.decorations.colors": false,
+	"workbench.layoutControl.enabled": false,
+	"workbench.statusBar.visible": false
+
+}
