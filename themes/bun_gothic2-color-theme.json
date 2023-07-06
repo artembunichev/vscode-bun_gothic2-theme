@@ -381,9 +381,9 @@
 		"editor.wordHighlightTextBorder": "#0000",
 
 		"editor.rangeHighlightBackground": "#0000",
-		"editor.rangeHighlightBorder": "#000000",
+		"editor.rangeHighlightBorder": "#0000",
 		"editor.findRangeHighlightBackground": "#0000",
-		"editor.findRangeHighlightBorder": "#000000",
+		"editor.findRangeHighlightBorder": "#0000",
 
 		"editor.symbolHighlightBackground": "#0000",
 		"editor.symbolHighlightBorder": "#000000",
