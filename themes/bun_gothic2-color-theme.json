@@ -369,9 +369,9 @@
 
 		"editor.selectionBackground": "#0000002d",
 		"editor.selectionForeground": "#000000",
-		"editor.selectionHighlightBackground": "#c7c7c75d",
-		"editor.selectionHighlightBorder": "#000000",
 		"editor.inactiveSelectionBackground": "#0000002d",
+		"editor.selectionHighlightBackground": "#0000",
+		"editor.selectionHighlightBorder": "#0000",
 
 		"editor.wordHighlightBackground": "#0000",
 		"editor.wordHighlightBorder": "#000000",
