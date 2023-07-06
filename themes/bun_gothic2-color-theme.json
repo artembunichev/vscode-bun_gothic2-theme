@@ -374,11 +374,11 @@
 		"editor.selectionHighlightBorder": "#0000",
 
 		"editor.wordHighlightBackground": "#0000",
-		"editor.wordHighlightBorder": "#000000",
-		"editor.wordHighlightStrongBackground": "#0000000f",
-		"editor.wordHighlightStrongBorder": "#000000",
+		"editor.wordHighlightBorder": "#0000",
+		"editor.wordHighlightStrongBackground": "#0000",
+		"editor.wordHighlightStrongBorder": "#0000",
 		"editor.wordHighlightTextBackground": "#0000",
-		"editor.wordHighlightTextBorder": "#000000",
+		"editor.wordHighlightTextBorder": "#0000",
 
 		"editor.rangeHighlightBackground": "#0000",
 		"editor.rangeHighlightBorder": "#000000",

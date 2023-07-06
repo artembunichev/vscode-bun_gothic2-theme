@@ -6,6 +6,7 @@
 	"editor.minimap.enabled": false,
 	"editor.hideCursorInOverviewRuler": true,
 	"editor.showFoldingControls": "never",
+	"editor.occurrencesHighlight": false,
 	"editor.selectionHighlight": false,
 	"editor.matchBrackets": "never",
 	"editor.bracketPairColorization.enabled": false,
