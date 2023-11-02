@@ -23,7 +23,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/spleekz/vscode-bun_gothic2-theme"
+		"url": "https://github.com/artembunichev/vscode-bun_gothic2-theme"
 	},
 	"icon": "icon.png"
 }
